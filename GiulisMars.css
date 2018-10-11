@@ -1,0 +1,116 @@
+body {
+    background-image: url("https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/playlists/playlist_414/big_deal_mars_1200x627.jpg?quality=89&w=800");
+    background-size: cover;
+    position: 0 0;
+    repeat: no-repeat;
+    height: 300px;
+    margin: 0px;
+
+}
+
+
+#message-area{
+width: 100%;
+padding: 20px;
+
+
+}
+
+div#board {
+float: right;
+width: 1000px;
+height: 1000px;
+margin: auto;
+
+
+
+
+}
+
+
+
+h1{
+    font-family: Roboto, Arial, sans-serif;
+    font-size: 20px;
+    color: white;
+    line-height: 30px;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+    font-weight: 300;
+}
+
+h2 {
+    font-family: Roboto, Arial, sans-serif;
+    font-size: 16px;
+    color: white;
+    line-height: 20px;
+    text-align: center;
+    padding: 10px;
+    font-weight: 200;
+
+}
+
+table{
+    border-spacing: 0px;
+    position: absolute;
+    border: 1px solid #585352;
+    margin: 20px 0 0 0;
+}
+
+td {
+ width: 94px;
+ height: 94px;
+ border: 1px solid #585352;
+}
+
+.commands {
+    float: left;
+    padding: 15px;
+    background-color:  #F0A579;
+}
+
+
+
+
+
+
+.btn {
+  width: 200px;
+  margin-top: 0px;
+  border-radius: 5px;
+  border: 1px solid #F0A579;
+  color: #ffffff;
+  font-family: Roboto, Arial, sans-serif;
+}
+
+
+button {
+    font-family: Roboto, Arial, sans-serif;
+    background-color: none;
+    width: 150px;
+    font-size:18px;
+    line-height: 20px;
+    border-radius: 10px 4px 10px 4px;
+    margin: 20px;
+    padding: 10px;
+}
+
+footer {
+margin: 10px;
+margin-bottom: 50px;
+
+
+}
+
+footer p{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: right;
+    font-size: 13px;
+    padding: 20px 10px 20px 0;
+}
+
+.clearfix{
+    clear: right;
+}
